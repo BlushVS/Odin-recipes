@@ -1,0 +1,30 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #bda27e;
+}
+.center {
+    text-align: center;
+}
+.title {
+    font-weight: bold;
+    font-size: 40px;
+    color: #9d6c22;
+}
+.smalltitle {
+    font-weight: 30px;
+    color: #9d6c22;
+    font-weight: bold;
+}
+img {
+    height: 400px;
+    width: auto;
+    border: 15px solid #c19a63;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#white {
+    color: white;
+}
